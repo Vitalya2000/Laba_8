@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">laba_8</string>
+
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+
+    <string name="hint">Адрес(Страна, регион, город, улица, дом)</string>
+    <string name="search">Поиск</string>
+    <string name="path">Построить и показать маршрут</string>
+    <string name="result">Не найдено</string>
+
+    <string name="google_maps_key">AIzaSyAI4nxhTP5r6zfpS5cgEJ63k4uNw3wzaDs</string>
+</resources>
